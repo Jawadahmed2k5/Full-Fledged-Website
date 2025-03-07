@@ -17,23 +17,6 @@ This is my first fully-fledged website, developed as a companion for the **Islam
 - **Database:** Firebase
 - **Hosting:** Firebase Hosting / Vercel / Netlify
 
-## Installation & Setup
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/Full-Fledged-Website.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Full-Fledged-Website
-   ```
-3. Install dependencies:
-   ```sh
-   npm install
-   ```
-4. Start the development server:
-   ```sh
-   npm start
-   ```
 
 ## Contribution
 Contributions are welcome! If you’d like to enhance the project, feel free to fork the repository and submit a pull request.
