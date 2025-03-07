@@ -21,9 +21,6 @@ This is my first fully-fledged website, developed as a companion for the **Islam
 ## Contribution
 Contributions are welcome! If you’d like to enhance the project, feel free to fork the repository and submit a pull request.
 
-## License
-This project is open-source and available under the [MIT License](LICENSE).
-
 ---
 ### Author
 **Jawad Ahmed** – *Web & App Developer To Be*
